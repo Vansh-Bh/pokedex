@@ -1,3 +1,3 @@
 # Pokedex
 
-A simple pokedex made in flutter.
+A simple pokedex made using flutter.
